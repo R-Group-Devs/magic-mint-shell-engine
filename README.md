@@ -1,4 +1,4 @@
-# magic-mint-shell engine
+# magic-mint-shell-engine
 
 Smart contracts for Magic Mint.
 
